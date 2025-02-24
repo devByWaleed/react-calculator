@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+/* Heading Animation */
+.head-animate {
+    animation: marquee 15s linear infinite;
+}
+
+@keyframes marquee {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(100%);
+    }
+}
+
+/* Border Animation */
+@keyframes borderAnimation {
+    0% { border-color: rgb(6, 6, 179); }
+    50% { border-color: rgb(44, 10, 233); }
+    100% { border-color: rgb(6, 6, 179); }
+}
