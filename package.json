@@ -1,6 +1,6 @@
 {
   "name": "react-calculator",
-  "homepage": "https://waleed1857.github.io/react-calculator/",
+  "homepage": "https://devByWaleed.github.io/react-calculator/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.8",

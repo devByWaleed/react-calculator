@@ -40,7 +40,7 @@ Currently, two official plugins are available:
 **Usage:**  
 Access the `React Calculator` application through the web browser. 
 
-https://waleed1857.github.io/react-calculator/
+https://devByWaleed.github.io/react-calculator/
 
 
 
